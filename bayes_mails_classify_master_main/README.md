@@ -1,1 +1,1 @@
-<img src="bbbb/bayes_mails_classify_master_main/images/zy.png" width="800" alt="zy">
+<img src="images/zy.png" width="800" alt="zy">
